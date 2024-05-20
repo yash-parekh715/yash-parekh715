@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Parekh</h1>
 <h3 align="center">A proficient backend developer from India aspiring to leverage my skill to develop efficient and scalable software applications</h3>
 
-<img  align="right" alt="gif" width="350" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
+<img  align="right" alt="gif" width="250" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-parekh715&label=Profile%20views&color=0e75b6&style=flat" alt="yash-parekh715" /> </p>
 
