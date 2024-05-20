@@ -1,3 +1,4 @@
+![logo](https://github.com/yash-parekh715/yash-parekh715/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Yash Parekh</h1>
 <h3 align="center">A proficient backend developer from India aspiring to leverage my skill to develop efficient and scalable software applications</h3>
 
