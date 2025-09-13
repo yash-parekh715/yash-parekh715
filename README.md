@@ -1,18 +1,18 @@
 ![logo](https://github.com/yash-parekh715/yash-parekh715/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Yash Parekh</h1>
-<h3 align="center">A proficient backend developer from India aspiring to leverage my skill to develop efficient and scalable software applications</h3>
+<h3 align="center">A Fullstack Developer from India aspiring to leverage my skill to develop efficient and scalable software applications</h3>
 
 <img  align="right" alt="gif" width="250" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-parekh715&label=Profile%20views&color=0e75b6&style=flat" alt="yash-parekh715" /> </p>
 
-- 🌱 I’m currently learning **React.js, Next.js, Golang, .net, AWS, DevOps**
+- 🌱 I’m currently learning **Next.js, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash-parekh715](https://github.com/yash-parekh715)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, MySQL, FastAPI, Django, Flask, C/C++, Java, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, React.js, Next.js, AWS, postgreSQL, Typescript, MongoDB, MySQL, FastAPI, Django, Flask, C/C++, Java, Python**
 
-- 📫 How to reach me **parekhyash712005@gmail.com**
+- 📫 How to reach me **yparekh.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
